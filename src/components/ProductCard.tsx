@@ -19,7 +19,7 @@ const ProductCard = () => {
           <p className="text-center py-4">STYLE HAIR CUTTING</p>
           <p className="text-center py-2">PKR 1000</p>
           <div className="flex justify-center my-5">
-            <button className="bg-black text-white py-2 px-10 rounded-md">
+            <button className="bg-black text-white py-2 px-10 rounded-md active:bg-blue-800">
               Book Now
             </button>
           </div>
@@ -38,7 +38,7 @@ const ProductCard = () => {
           <p className="text-center py-4">SIMPLE HAIR STYLE CUTTING</p>
           <p className="text-center py-2">PKR 800</p>
           <div className="flex justify-center my-5">
-            <button className="bg-black text-white py-2 px-10 rounded-md">
+            <button className="bg-black text-white py-2 px-10 rounded-md active:bg-blue-800">
               Book Now
             </button>
           </div>
@@ -57,7 +57,7 @@ const ProductCard = () => {
           <p className="text-center py-4 mt-2">HAIR STYLING</p>
           <p className="text-center py-2 mt-2">PKR 400</p>
           <div className="flex justify-center my-5 ">
-            <button className="bg-black text-white py-2 px-10 rounded-md">
+            <button className="bg-black text-white py-2 px-10 rounded-md active:bg-blue-800">
               Book Now
             </button>
           </div>
